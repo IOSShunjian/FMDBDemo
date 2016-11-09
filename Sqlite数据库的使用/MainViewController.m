@@ -45,7 +45,7 @@
     //    [self removeUser];
     //    [self modifyUserInfo];
     
-    //    [self addStatus];
+        [self addStatus];
     
     [self loadStatusData];
     
